@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(210, 222, 236);
+}
+.parent-div {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child-div {
+    background-color: rgb(252,252,252);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px, 0 , 10px;
+}
+p {
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20%;
+
+
+}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: 20vw;
+    border-radius: 10px;
+}
